@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer (equivalent to AP in mainland China) in [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/). I perused my PhD at [SChool of Econimics, Peking University](https://econ.pku.edu.cn/) during 2018-2023. My research interest lies in optimal taxation theory, local public finance and fiscal federalism.
+I am a lecturer (equivalent to AP in mainland China) in [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/). I persued my PhD at [SChool of Econimics, Peking University](https://econ.pku.edu.cn/) during 2018-2023. My research interest lies in optimal taxation theory, local public finance and fiscal federalism.
 
 You can find my CV here: [Xufeng's CV](../assets/XufengZhao_CV.pdf)
 
