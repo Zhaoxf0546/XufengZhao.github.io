@@ -11,7 +11,7 @@ I am a lecturer (equivalent to AP in mainland China) in [Southwestern University
 
 You can find my CV here: [Xufeng's CV](../assets/XufengZhao_CV.pdf)
 
-[Email Address](zhaoxf@swufe.edu.cn) / [SSRN homepage](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6379912)
+[Email Address](mailto:zhaoxf@swufe.edu.cn) / [SSRN homepage](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6379912)
 
 A data-driven personal website
 ======
