@@ -1,7 +1,7 @@
 ---
 title: "Optimal Intergovernmental Transfer: Equity and Efficiency"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-4-10
 paperurl: 'http://zhaoxf0546.github.io/XufengZhao.github.io/files/CVZ4.10.pdf'
