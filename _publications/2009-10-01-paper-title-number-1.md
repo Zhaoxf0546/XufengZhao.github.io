@@ -3,8 +3,8 @@ title: "Optimal Intergovernmental Transfer: Equity and Efficiency"
 collection: publications
 category: working
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2025
-venue: SSRN
+date: 2025-04-10
+venue: 'SSRN'
 paperurl: 'http://zhaoxf0546.github.io/XufengZhao.github.io/files/CVZ4.10.pdf'
 citation: 'Xiaoyong Cui, Yu Yan, Xufeng Zhao. (2025). &quot;Optimal Intergovernmental Transfer: Equity and Efficiency.&quot; <i>SSRN Working Paper 5094292.'
 ---
