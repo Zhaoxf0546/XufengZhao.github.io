@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Public Finance Seminar"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Southwestern University of Finance and Economics, School of Public Finance and Taxation"
+date: 2024-06-01
+location: "Chengdu, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The seminar consists of two parts: student presentations on empirical studies, and an introduction to public finance theories, including optimal taxation theory, game theory, and search-matching theory.
 
 Heading 1
 ======
