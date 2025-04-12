@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "1692410598860.png"
   name             : "Xufeng Zhao"
-  pronouns         : # He
+  pronouns         : ""
   bio              : "A researcher focusing on theories of public finance"
   location         : "Chengdu, Sichuan Province, China"
   employer         : "School of Public Finance and Taxation, Southwestern Univeristy of Finance and Economics"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
