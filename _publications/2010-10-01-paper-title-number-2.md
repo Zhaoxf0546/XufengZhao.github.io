@@ -1,7 +1,7 @@
 ---
 title: "Information Asymmetry, Fiscal Competition and Optimal Interregional Transfer"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2025-01-12
 paperurl: 'http://zhaoxf0546.github.io/XufengZhao.github.io/files/WZL.pdf'
