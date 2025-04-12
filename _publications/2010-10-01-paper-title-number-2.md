@@ -3,7 +3,6 @@ title: "Information Asymmetry, Fiscal Competition and Optimal Interregional Tran
 collection: publications
 category: working
 permalink: /publication/2010-10-01-paper-title-number-2
-date: 2025-01-12
 paperurl: 'http://zhaoxf0546.github.io/XufengZhao.github.io/files/WZL.pdf'
 citation: 'Xiaoxiao Wang, Xufeng Zhao, Guojun Lu. (2025). &quot;Information Asymmetry, Fiscal Competition and Optimal Interregional Transfer.&quot; <i>SSRN working paper 5094290.'
 ---
