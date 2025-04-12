@@ -1,7 +1,7 @@
 ---
 title: "Optimal Capital Taxation with Endogenous Returns"
 collection: publications
-category: manuscripts
+category: working
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2025-4-10
 citation: 'Xiaoyong Cui, Zhiming Fu, Xufeng Zhao. (2025). &quot;Optimal Capital Taxation with Endogenous Returns.&quot; <i>Working paper.'
